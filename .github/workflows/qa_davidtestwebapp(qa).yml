@@ -59,4 +59,4 @@ jobs:
           app-name: 'davidtestwebapp'
           slot-name: 'qa'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3291FA7B03804B4BA277F08A35678ADA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_22F3A465B6884F7FB8ECF67817A38E15 }}
